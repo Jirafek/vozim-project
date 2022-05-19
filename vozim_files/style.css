@@ -1,0 +1,19 @@
+.hide {
+    display: none;
+}
+
+.solid-auto {
+    background-color: #ec7e25 !important;
+}
+
+.solid_delivery {
+    background-color: #23e1eb !important;
+}
+
+.t-submit {
+    background-color: #23e1eb !important;
+}
+
+.styled-title {
+    text-align: center;
+}
